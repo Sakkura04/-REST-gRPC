@@ -1,0 +1,8 @@
+# Ignore compiled binaries 
+
+dist/
+cmd/main
+main
+tmp/*
+.idea
+.vscode
